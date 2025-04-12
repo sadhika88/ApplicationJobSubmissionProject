@@ -42,7 +42,7 @@ This project contains a simple job application form that collects basic user inf
 
 ## 📸 Screenshots  
 ### 📝 Job Application Form UI 
-![image alt](https://github.com/sadhika88/ApplicationJobSubmissionProject/commit/6213e1f79c87c2d66fb92923a883e5bf28f4f2d5#diff-5d787d8e673c0ea4ff77c7856b65fe5a812f0a91fe8d622434cfb768d3ad3f9c)
+![Job Application Form](https://github.com/sadhika88/ApplicationJobSubmissionProject/blob/6213e1f79c87c2d66fb92923a883e5bf28f4f2d5/ClientFormDetails_20250407_210114.png)
 
 
 
