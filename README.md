@@ -1,4 +1,2 @@
-1. About the Project  
-2. Getting Started  
-3. Installation  
-4. Usage  
+1.📝 Job Application Submission - Test Project
+This project contains a simple job application form that collects basic user information such as First Name, Last Name, Email, and more. The form is designed for use in web applications and can be tested manually and through automation (Selenium with Java).
