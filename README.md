@@ -17,4 +17,12 @@ This project contains a simple job application form that collects basic user inf
 - **Resume Submission**
   - Upload File (PDF, DOC)
   - Provide URL
+### 🚀 **Technologies Used**
+
+- 🖥️ **Selenium with Java**  
+- 📝 **Manual Testing**  
+- 🔍 **TestNG or JUnit**  
+- 🛠️ **Maven**  
+- 🌐 **HTML & CSS** (for front-end form testing)  
+ - 💻 **IDE**: **IntelliJ IDEA** / **Eclipse** (for coding and debugging)
 
