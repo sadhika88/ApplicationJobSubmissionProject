@@ -47,6 +47,7 @@ This project contains a simple job application form that collects basic user inf
 📽️ **Watch the video execution:** [**Click Here**](https://drive.google.com/file/d/1zUiwiH1jiDqM-utsRacX0crHvLCbGoTO/view?usp=drive_link)
 
 ### 📊 **Test Reports**
+![Test Report](https://github.com/sadhika88/ApplicationJobSubmissionProject/blob/f1d3eddd106f58ed1bb3679e128c250bbe7c6ab9/Screenshot%202025-04-12%20134835.png)
 
 
 
