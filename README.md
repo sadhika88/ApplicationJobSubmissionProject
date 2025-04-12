@@ -26,3 +26,16 @@ This project contains a simple job application form that collects basic user inf
 - 🌐 **HTML & CSS** (for front-end form testing)  
  - 💻 **IDE**: **IntelliJ IDEA** / **Eclipse** (for coding and debugging)
 
+   ### 📂 Project Structure
+
+📂 src/main/java
+├── 📂 PageObjects
+│ ├── 📄 ClientDetails.java
+├── 📂 TestCase
+│ ├── 📄 ClientJobApplicationExecuted.java
+│ ├── 📄 ScreenRecorderUtil.java
+├── 📂 Utilities
+│ ├── 📄 ExtentReport.java
+
+📂 src/main/resources
+
