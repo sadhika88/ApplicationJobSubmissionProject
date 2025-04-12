@@ -42,8 +42,8 @@ This project contains a simple job application form that collects basic user inf
 
 ## 📸 Screenshots  
 ### 📝 Job Application Form UI  
-![Job Application Form](https://drive.google.com/file/d/1NHoFOQdRRDB-3ZCxosTx3zlclUxb4ldd/view?usp=sharing)
+![Job Application Form](C:\Users\Dell\eclipse-workspace\ApplicationJobSubmissionProject\screenShots\ClientFormDetails_20250407_210114.png)
 
 ### ✅ Test Execution Output  
-![Test Result](C:\Users\Dell\eclipse-workspace\ApplicationJobSubmissionProject\reports\myReport.html)
+
 
